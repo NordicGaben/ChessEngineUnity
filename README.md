@@ -1,8 +1,8 @@
 # Chess engine in Unity 
 ## Personal Learning Project.
-Welcome there! this is a personal learning project that I will be working on as I learn more c# and unity. I was inspired to take on this project and get more into programming by by [Sebastian Lague](https://twitter.com/SebastianLague?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)'s Chess [Coding adventure](https://www.youtube.com/watch?v=U4ogK0MIzqk&ab_channel=SebastianLague), whose coding adventures I wholeheartedly recommend anyone and everyone to checkout.
+Welcome there! this is a personal learning project that I will be working on as I learn more c# and unity. I was inspired to take on this project and get more into programming by [Sebastian Lague](https://twitter.com/SebastianLague?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)'s Chess [Coding adventure](https://www.youtube.com/watch?v=U4ogK0MIzqk&ab_channel=SebastianLague), whose coding adventures I wholeheartedly recommend anyone and everyone to checkout.
 
-As this is one of my first personal undertakings there will no doubt be more inspirations that I draw from in terms of both the aesthetics and code implementation, I will do my best to give credit where credit is due and keep a list of said inspirations.
+As this is one of my first personal undertaking, there will no doubt be more inspirations that I draw from in terms of both the aesthetics and code implementation. I will do my best to give credit where credit is due and keep a list of said inspirations.
 
 ### Inspirations:
 
